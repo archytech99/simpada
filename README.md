@@ -52,7 +52,7 @@ Landasan Hukum :
 [![alur-self_img02](media/img02.gif)](file/simpada.rar)
 
 ```
-Catanan :
+Catatan :
 Rincian sisdur serta formulir yang digunakan berdasarkan KEPMENDAGRI No. 43 TAHUN 1999 Tentang SISTEM DAN PROSEDUR ADMINISTRASI PAJAK DAERAH, RETRIBUSI DAERAH DAN PENERIMAAN PENDAPATAN LAIN-LAIN.
 ```
 
@@ -60,7 +60,7 @@ Rincian sisdur serta formulir yang digunakan berdasarkan KEPMENDAGRI No. 43 TAHU
 [![alur-official_img03](media/img03.gif)](file/simpada.rar)
 
 ```
-Catanan : 
+Catatan : 
 Rincian sisdur serta formulir yang digunakan berdasarkan KEPMENDAGRI No. 43 TAHUN 1999 Tentang SISTEM DAN PROSEDUR ADMINISTRASI PAJAK DAERAH, RETRIBUSI DAERAH DAN PENERIMAAN PENDAPATAN LAIN-LAIN.
 ```
 
