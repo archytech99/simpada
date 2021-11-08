@@ -1,6 +1,6 @@
 **SIMPATDA** adalah Sistem informasi yang mengelola data yang berkaitan dengan pajak dan retribusi daerah. Sistem ini akan mengorganisasikan data wajib pajak/retribusi, perhitungan perpajakan, serta pelaporan hasil-hasil pungutan pajak/retribusi.
 
-Sistem dan prosedur disesuaikan dengan **Keputusan Menteri Dalam Negeri (Kepmendagri) Nomor 43 Tahun 1999** tentang **Sistem dan prosedur administrasi pajak daerah, retribusi dan penerimaan pendapatan lain-lain**. Dan Format Pelaporan telah disesuaikan dengan **Peraturan Menteri Dalam Negeri Nomor 59 Tahun 2007** tentang **Perubahan Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006 tentang Pedoman Pengelolaan Keuangan Daerah**.
+Sistem dan prosedur disesuaikan dengan **[Keputusan Menteri Dalam Negeri (Kepmendagri) Nomor 43 Tahun 1999](file/5037531389KEPMEN_43_1999.PDF)** tentang **Sistem dan prosedur administrasi pajak daerah, retribusi dan penerimaan pendapatan lain-lain**. Dan Format Pelaporan telah disesuaikan dengan **Peraturan Menteri Dalam Negeri Nomor 59 Tahun 2007** tentang **Perubahan Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006 tentang Pedoman Pengelolaan Keuangan Daerah**.
 
 Landasan Hukum :
 
